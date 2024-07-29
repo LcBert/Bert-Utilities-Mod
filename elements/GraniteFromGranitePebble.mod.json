@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GranitePebble"
+      },
+      {
+        "value": "CUSTOM:GranitePebble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GranitePebble"
+      },
+      {
+        "value": "CUSTOM:GranitePebble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.STONE#1"
+    },
+    "name": "granite_from_granite_pebble",
+    "namespace": "mod"
+  }
+}

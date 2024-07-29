@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " aa",
+    "a  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "bert_utilities_mod:stone_converter",
+    "count": 1
+  }
+}

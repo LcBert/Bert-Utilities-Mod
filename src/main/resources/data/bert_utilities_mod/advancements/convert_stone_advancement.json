@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "bert_utilities_mod:stone_converter"
+    },
+    "title": {
+      "translate": "advancements.convert_stone_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.convert_stone_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "convert_stone_advancement_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

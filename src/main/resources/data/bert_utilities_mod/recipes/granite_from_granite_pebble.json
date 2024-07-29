@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bert_utilities_mod:granite_pebble"
+    }
+  },
+  "result": {
+    "item": "minecraft:granite",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "item.bert_utilities_mod.andesite_pebble": "Andesite Pebble",
+  "item.bert_utilities_mod.granite_pebble": "Granite Pebble",
+  "item.bert_utilities_mod.diorite_pebble": "Diorite Pebble",
+  "item.bert_utilities_mod.bone_mealinator": "Bone Mealinator",
+  "advancements.convert_stone_advancement.title": "Convert Stone",
+  "item_group.bert_utilities_mod.mod_creative_tab": "Bert Utilities Mod",
+  "item.bert_utilities_mod.pebble_extractor": "Pebble Extractor",
+  "item.bert_utilities_mod.stone_converter": "Stone Converter",
+  "item.bert_utilities_mod.cobblestone_pebble": "Cobblestone Pebble",
+  "advancements.convert_stone_advancement.descr": "Use stone converter to convert stone into minerals"
+}
