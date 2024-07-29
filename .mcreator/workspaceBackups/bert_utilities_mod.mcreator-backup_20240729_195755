@@ -3,7 +3,6 @@
     {
       "name": "PebbleExtractor",
       "type": "item",
-      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pebble_extractor",
@@ -18,7 +17,6 @@
     {
       "name": "ModCreativeTab",
       "type": "tab",
-      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mod_creative_tab",
@@ -29,7 +27,6 @@
     {
       "name": "StoneConverter",
       "type": "item",
-      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_converter",
@@ -44,7 +41,6 @@
     {
       "name": "CobblestonePebble",
       "type": "item",
-      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cobblestone_pebble",
@@ -59,7 +55,6 @@
     {
       "name": "AndesitePebble",
       "type": "item",
-      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_pebble",
@@ -74,7 +69,6 @@
     {
       "name": "DioritePebble",
       "type": "item",
-      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_pebble",
@@ -89,7 +83,6 @@
     {
       "name": "GranitePebble",
       "type": "item",
-      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_pebble",
@@ -104,7 +97,6 @@
     {
       "name": "PebbleExtractorRightclickedOnBlock",
       "type": "procedure",
-      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pebble_extractor_rightclicked_on_block",
@@ -144,7 +136,6 @@
     {
       "name": "StoneConverterRightclickedOnBlock",
       "type": "procedure",
-      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_converter_rightclicked_on_block",
@@ -184,7 +175,6 @@
     {
       "name": "PebbleExtractorRecipe",
       "type": "recipe",
-      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pebble_extractor_recipe",
@@ -198,7 +188,6 @@
     {
       "name": "StoneConverterRecipe",
       "type": "recipe",
-      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stone_converter_recipe",
@@ -212,7 +201,6 @@
     {
       "name": "CobblestoneFromCobblestonePebble",
       "type": "recipe",
-      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cobblestone_from_cobblestone_pebble",
@@ -226,7 +214,6 @@
     {
       "name": "AndesiteFromAndesitePebble",
       "type": "recipe",
-      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "andesite_from_andesite_pebble",
@@ -240,7 +227,6 @@
     {
       "name": "DioriteFromDioritePebble",
       "type": "recipe",
-      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "diorite_from_diorite_pebble",
@@ -254,7 +240,6 @@
     {
       "name": "GraniteFromGranitePebble",
       "type": "recipe",
-      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "granite_from_granite_pebble",
@@ -268,7 +253,6 @@
     {
       "name": "BoneMealinator",
       "type": "item",
-      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_mealinator",
@@ -283,7 +267,6 @@
     {
       "name": "BoneMealinatorRightclickedOnBlock",
       "type": "procedure",
-      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_mealinator_rightclicked_on_block",
@@ -319,7 +302,6 @@
     {
       "name": "BoneMealinatorRecipe",
       "type": "recipe",
-      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bone_mealinator_recipe",
@@ -333,7 +315,6 @@
     {
       "name": "ConvertStoneAdvancement",
       "type": "achievement",
-      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "convert_stone_advancement",
@@ -354,6 +335,7 @@
       "CUSTOM:GranitePebble"
     ]
   },
+  "tab_element_order": {},
   "language_map": {
     "en_us": {
       "item.bert_utilities_mod.andesite_pebble": "Andesite Pebble",
@@ -400,5 +382,5 @@
     "currentGenerator": "forge-1.20.1",
     "modElementsPackage": "net.mcreator.bertutilitiesmod"
   },
-  "mcreatorVersion": 202400118518
+  "mcreatorVersion": 202400229712
 }
