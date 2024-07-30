@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bert_utility_tools:andesite_pebble"
+    }
+  },
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 1
+  }
+}

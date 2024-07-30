@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "bert_utilities_mod:cobblestone_pebble",
-    "bert_utilities_mod:andesite_pebble",
-    "bert_utilities_mod:diorite_pebble",
-    "bert_utilities_mod:granite_pebble"
-  ]
-}

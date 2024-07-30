@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    " a",
+    " a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bert_utility_tools:pebble_extractor",
+    "count": 1
+  }
+}

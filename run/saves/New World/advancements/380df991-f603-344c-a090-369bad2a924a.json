@@ -11,12 +11,6 @@
     },
     "done": false
   },
-  "bert_utilities_mod:convert_stone_advancement": {
-    "criteria": {
-      "convert_stone_advancement_0": "2024-07-25 01:16:02 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-07-25 22:58:08 +0200"
@@ -209,15 +203,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_deepslate_coal_ore": "2024-07-29 13:47:36 +0200"
+      "has_coal_ore": "2024-07-29 13:47:35 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "has_nether_gold_ore": "2024-07-29 13:47:38 +0200"
+      "has_coal_ore": "2024-07-29 13:47:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2024-07-29 13:47:36 +0200"
     },
     "done": true
   },
@@ -233,21 +233,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-07-29 13:47:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2024-07-29 13:47:38 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
-      "has_coal_ore": "2024-07-29 13:47:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2024-07-29 13:47:35 +0200"
+      "has_nether_gold_ore": "2024-07-29 13:47:38 +0200"
     },
     "done": true
   },
@@ -257,9 +257,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_nether_quartz_ore": "2024-07-29 13:47:37 +0200"
+      "has_water_bucket": "2024-07-30 18:23:09 +0200"
     },
     "done": true
   },

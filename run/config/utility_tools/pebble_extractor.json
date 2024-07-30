@@ -1,0 +1,28 @@
+{
+    "process": [
+        {
+            "block": [
+                "minecraft:dirt",
+                "minecraft:grass"
+            ],
+            "result": [
+                {
+                    "item": "bert_utility_tools:cobblestone_pebble",
+                    "chance": 25
+                },
+                {
+                    "item": "bert_utility_tools:andesite_pebble",
+                    "chance": 25
+                },
+                {
+                    "item": "bert_utility_tools:diorite_pebble",
+                    "chance": 25
+                },
+                {
+                    "item": "bert_utility_tools:granite_pebble",
+                    "chance": 25
+                }
+            ]
+        }
+    ]
+}

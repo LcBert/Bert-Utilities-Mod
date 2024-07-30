@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "bert_utilities_mod:item/pebble_extractor"
-  }
-}
